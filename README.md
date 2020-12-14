@@ -1,8 +1,8 @@
 # Instagram Engagement Rate   
 Calculate Instagram Posts Engagement Rate. 
-```
+```shell
 ![Screenshot (292)](https://user-images.githubusercontent.com/66938135/102041761-d50a2280-3e02-11eb-9df0-16c19e5b6528.png)
-
+```
 ## Install
 ```shell
 git clone https://github.com/parsakafi/instagram-engagement-rate.git
